@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "001"
+  site-url: "https://jbwhit.github.io/001"
+  description: "Tidy Tuesday attempt 001"
+  repo-branch: main
+  repo-url: "https://github.com/jbwhit/001"
